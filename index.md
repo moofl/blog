@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog
+title: I wish I could get rid of this
 ---
